@@ -155,7 +155,7 @@ Endpoint = 34.228.16.47:51820
 AllowedIPs = 172.31.0.0/16, 20.200.200.1/32
 PersistentKeepalive = 21
 ```
-Permissões de segurança no arquivo (caso o usuario não tenha permisão do sudo/root, sera necessario modificar de acordo com o usuario):
+Permissões de segurança no arquivo (caso o usuario não tenha permisão do sudo/root, sera necessario modificar de acordo com a permissão/grupo do usuario):
 
 ```
 sudo chown root:root /etc/wireguard/cliente01.conf
