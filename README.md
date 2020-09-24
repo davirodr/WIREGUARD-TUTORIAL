@@ -70,7 +70,7 @@ AllowedIPs = 25.25.0.0/16, 20.200.200.2/32
 ```
 [IMPORTANTE]
 
-No campo PrivateKey colocaremos a chave privada gerada no servidor, e no campo PublicKey colocaremos a chave publica da filial ou do cliente!
+No campo PrivateKey colocaremos a chave privada gerada no servidor, e no campo PublicKey colocaremos a chave pública da filial/cliente!
 ```
 ```
 [IMPORTANTE]
