@@ -10,7 +10,7 @@ No cenário abaixo estarei utilizando como cenário a AWS, porém não há difer
 
 ## Configuração
 
-Observações: no caso estarei utilizando a AWS, realizei a criação de uma instância EC2 com o security grupo com o nome VPN-WIREGUARD(Apenas para detalhar) com a porta 22 do SSH para o meu IP público.
+Observações: no caso estarei utilizando a AWS, realizei a criação de uma instância EC2 com o security grupo com o nome VPN-WIREGUARD(Apenas para detalhar) com a porta 22 do SSH e com a porta 51820 UDP que a VPN utilizará no tutorial, para o meu IP público.
 
 Após termos acessos via SSH o lado da Matriz da VPN utilizando ubuntu inciaremos instalando o repositório do wireguard com os comandos abaixo:
 
