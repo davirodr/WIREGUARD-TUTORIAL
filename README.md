@@ -4,7 +4,7 @@ No tutorial abaixo estarei exemplificando uma VPN de alta qualidade e com segura
 
 No tutorial abaixo usaremos dois linux ubuntu, porém pode ser aplicado em praticamente todas as variações de linux, verificamos isso no site da wireguard: '''https://www.wireguard.com/install/ '''
 
-Também podemos realizar os links de vpns entre os equipamentos da mikrotik (RouterOS na versão 7.1 Beta development) e/ou Linux e RouterOS e também possivelmente no pFsense (Não verifiquei), vice e versa.
+Também podemos realizar os links de vpns entre os equipamentos da mikrotik (RouterOS na versão 7.1 Beta development) e/ou Linux e RouterOS e também acredito que seja possivelmente no pFsense (Não verifiquei), vice e versa.
 
 No cenário abaixo estarei utilizando como cenário a AWS, porém não há diferenças em realizar em on primesses, apenas terá alguns detalhes a mais para a AWS.
 
