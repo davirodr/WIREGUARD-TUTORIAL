@@ -168,7 +168,7 @@ Note que no campo PublicKey colocamos a chave Publica da MATRIZ
 
 Endpoint é o local onde colocaremos o IP fixo publico da instância da AWS!
 
-Endpoint = 34.228.16.47:51820 ip público instância e portas
+Endpoint = 34.228.16.47:51820 ip público instância e porta
 
 AllowedIPs = 172.31.0.0/16, 20.200.200.1/32
 
